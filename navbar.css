@@ -1,0 +1,20 @@
+.menu-item{
+    list-style: none;
+    background-color: teal;
+    color: white;
+    margin: 0;
+    padding: 8px;
+    overflow: hidden
+}
+
+.menu-item>li{
+    float: left;
+}
+footer{
+    margin-top: 120px;
+}
+
+.post > img{
+    width: 300px;
+    height: 200px;
+}
